@@ -5,7 +5,10 @@ def main():
 if __name__ == '__main__':
     main()
 
-print("Hello World")
+print("Hello World 123")
 
 def cool():
     return "cool"
+
+def cool2():
+    return "cool2"
